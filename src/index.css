@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --accent-color: #0f80f8; /* اللون الأزرق المفضل */
+  }
+  
